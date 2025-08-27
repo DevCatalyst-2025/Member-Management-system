@@ -1,4 +1,6 @@
 ⚡ DevCatalyst Portal: A Multi-Role Task Management System
+
+
 DevCatalyst is a comprehensive, multi-role web application built with Streamlit and Supabase. It serves as a centralized portal for managing tasks, resolving doubts, and tracking progress within a team or organization. The application is designed with a clear separation of roles: Members, Representatives, and an Admin, each with a tailored interface and specific permissions.
 
 ✨ Key Features
