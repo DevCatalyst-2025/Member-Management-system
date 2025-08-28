@@ -24,7 +24,7 @@ st.set_page_config(
 # CONSTANTS & CONFIGURATION
 # -----------------------------
 ROLE_USERNAMES = {
-    "Representatives": ["rep1", "rep2"],
+    "Representatives": ["RajLikhit", "rep2"],
     "Members": ["mem1", "mem2"],
     "Admin": ["admin"]
 }
